@@ -1,0 +1,55 @@
+{
+    "title": "Quiz sur les maths",
+    "content": [
+        {
+            "question": "Quelle est la valeur de l'intégrale définie suivante : ∫(x^3 + 2x^2 - 5x + 1)dx, avec pour bornes d'intégration 1 et 3 ?",
+            "choix": [
+                "28/3",
+                "32/3",
+                "36/3",
+                "40/3"
+            ],
+            "reponse": "32/3"
+        },
+        {
+            "question": "Quelle est la solution générale de l'équation différentielle suivante : y'' + 4y = 0 ?",
+            "choix": [
+                "y = Acos(2x) + Bsin(2x)",
+                "y = Ae^(2x) + Be^(-2x)",
+                "y = Ae^(4x)",
+                "y = Ax^2 + Bx + C"
+            ],
+            "reponse": "y = Acos(2x) + Bsin(2x)"
+        },
+        {
+            "question": "Quelle est la limite suivante : lim(x→0) (sin(x)/x) ?",
+            "choix": [
+                "0",
+                "1",
+                "∞",
+                "La limite n'existe pas"
+            ],
+            "reponse": "1"
+        },
+        {
+            "question": "On lance deux dés équilibrés. Quelle est la probabilité d'obtenir un total de 7 ?",
+            "choix": [
+                "1/6",
+                "1/9",
+                "1/12",
+                "1/36"
+            ],
+            "reponse": "1/6"
+        },
+        {
+            "question": "La série suivante est-elle convergente ou divergente ? ∑(n=1 à l'infini) (1/n^2) ?",
+            "choix": [
+                "Convergente",
+                "Divergente ",
+                "Ni convergente ni divergente",
+                "Impossible à déterminer"
+            ],
+            "reponse": "Convergente"
+        }
+    ]
+}

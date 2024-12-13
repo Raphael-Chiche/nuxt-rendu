@@ -1,0 +1,45 @@
+{
+    "title": "Quiz chien",
+    "content": [
+        {
+            "question": "Quel est le meilleur ami de l'homme ?",
+            "choix": [
+                "Le chat",
+                "Le cheval",
+                "Le chien",
+                "Le lapin"
+            ],
+            "reponse": "Le chien"
+        },
+        {
+            "question": "Quelle est la durée de vie moyenne d'un chien de taille moyenne ?",
+            "choix": [
+                "5 à 7 ans",
+                "10 à 12 ans",
+                "15 à 18 ans",
+                "20 à 25 ans"
+            ],
+            "reponse": "10 à 12 ans"
+        },
+        {
+            "question": "Pourquoi les chiens lèchent-ils ?",
+            "choix": [
+                "Pour montrer leur affection",
+                "Pour nettoyer",
+                "Pour marquer leur territoire",
+                "Toutes ces réponses"
+            ],
+            "reponse": "Toutes ces réponses"
+        },
+        {
+            "question": "Quelle est la race de chien la plus intelligente ?",
+            "choix": [
+                "Le Golden Retriever",
+                "Le Border Collie",
+                "Le Berger Allemand",
+                "Le Caniche"
+            ],
+            "reponse": "Le Border Collie"
+        }
+    ]
+}

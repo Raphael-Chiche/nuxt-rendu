@@ -1,0 +1,58 @@
+{
+    "title": "Quiz sur les animaux marins",
+    "content": [
+        {
+            "question": "Quel animal marin est connu pour ses longs bras ?",
+            "choix": [
+                "Poisson",
+                "Étoile de mer",
+                "Poulpe",
+                "Dauphin"
+            ],
+            "reponse": "Poulpe"
+        },
+        {
+            "question": "Quel mammifère marin vit en groupe et communique par des clics ?",
+            "choix": [
+                "Phoque",
+                "Dauphin",
+                "Tortue de mer",
+                "Requin"
+            ],  
+            "reponse": "Dauphin"
+        }
+        ,
+        {
+            "question": "Quel animal marin est connu pour sa grande taille et ses dents acérées ?",
+            "choix": [
+                "Baleine",
+                "Requin",
+                "Orque",
+                "Dauphin"
+            ],
+            "reponse": "Requin"
+        }
+        ,
+        {
+            "question": "Quel animal marin est connu pour sa carapace et ses pinces ?",
+            "choix": [
+                "Crabe",
+                "Homard",
+                "Crevette",
+                "Langouste"
+            ],
+            "reponse": "Homard"
+        }
+        ,
+        {
+            "question": "Quel animal marin est connu pour sa grande taille et sa carapace ?",
+            "choix": [
+                "Crabe",
+                "Homard",
+                "Crevette",
+                "Langouste"
+            ],
+            "reponse": "Langouste"
+        }
+    ]
+}

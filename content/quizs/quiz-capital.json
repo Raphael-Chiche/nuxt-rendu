@@ -1,0 +1,58 @@
+{
+    "title": "Quiz sur les capitales",
+    "content": [
+        {
+            "question": "Quelle est la capitale de la France ?",
+            "choix": [
+                "Marseille",
+                "Lyon",
+                "Paris",
+                "Nice"
+            ],
+            "reponse": "Paris"
+        },
+        {
+            "question": "Quelle est la capitale des États-Unis ?",
+            "choix": [
+                "New York",
+                "Los Angeles",
+                "Washington D.C.",
+                "Chicago"
+            ],
+            "reponse": "Washington D.C."
+        }   
+        ,
+        {
+            "question": "Quelle est la capitale de l'Espagne ?",
+            "choix": [
+                "Madrid",
+                "Barcelone",
+                "Valence",
+                "Séville"
+            ],
+            "reponse": "Madrid"
+        }
+        ,
+        {
+            "question": "Quelle est la capitale de l'Allemagne ?",
+            "choix": [
+                "Berlin",
+                "Munich",
+                "Hambourg",
+                "Francfort"
+            ],
+            "reponse": "Berlin"
+        }
+        ,
+        {
+            "question": "Quelle est la capitale de l'Italie ?",
+            "choix": [
+                "Rome",
+                "Milan",
+                "Naples",
+                "Turin"
+            ],
+            "reponse": "Rome"
+        }
+    ]
+}

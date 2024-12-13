@@ -1,0 +1,58 @@
+{
+    "title": "Quiz sur les fruits",
+    "content": [
+        {
+            "question": "Quel fruit est jaune et a une peau épaisse ?",
+            "choix": [
+                "Pomme",
+                "Banane",
+                "Orange",
+                "Poire"
+            ],
+            "reponse": "Banane"
+        },
+        {
+            "question": "Quel fruit est rouge et a un noyau ?",
+            "choix": [
+                "Cerise",
+                "Pomme",
+                "Poire",
+                "Banane"
+            ],
+            "reponse": "Cerise"
+        }
+        ,
+        {
+            "question": "Quel fruit est vert et a une peau fine ?",
+            "choix": [
+                "Pomme",
+                "Banane",
+                "Orange",
+                "Poire"
+            ],
+            "reponse": "Pomme"
+        }
+        ,
+        {
+            "question": "Quel fruit est orange et a une peau épaisse ?",
+            "choix": [
+                "Pomme",
+                "Banane",
+                "Orange",
+                "Poire"
+            ],
+            "reponse": "Orange"
+        }
+        ,
+        {
+            "question": "Quel fruit est jaune et a une peau fine ?",
+            "choix": [
+                "Pomme",
+                "Banane",
+                "Orange",
+                "Poire"
+            ],
+            "reponse": "Poire"
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "title": "Quiz sur l'histoire",
+    "content": [
+        {
+            "question": "Qui a peint la Joconde ?",
+            "choix": [
+                "Michel-Ange",
+                "Léonard de Vinci",
+                "Raphaël",
+                "Vincent van Gogh"
+            ],
+            "reponse": "Léonard de Vinci"
+        },
+        {
+            "question": "Quelle guerre mondiale a eu lieu au 20ème siècle ?",
+            "choix": [
+                "Première Guerre mondiale",
+                "Deuxième Guerre mondiale",
+                "Guerre de Cent Ans",
+                "Guerre de Troie"
+            ],
+            "reponse": "Deuxième Guerre mondiale"
+        }
+        ,
+        {
+            "question": "Quel empereur romain a construit le Colisée ?",
+            "choix": [
+                "Jules César",
+                "Néron",
+                "Auguste",
+                "Caligula"
+            ],
+            "reponse": "Vespasien"
+        }
+        ,
+        {
+            "question": "Quel roi de France a construit le château de Versailles ?",
+            "choix": [
+                "Louis XIII",
+                "Louis XIV",
+                "Louis XV",
+                "Louis XVI"
+            ],
+            "reponse": "Louis XIV"
+        }
+        ,
+        {
+            "question": "Quel empereur français a été exilé à Sainte-Hélène ?",
+            "choix": [
+                "Napoléon Ier",
+                "Napoléon II",
+                "Napoléon III",
+                "Napoléon IV"
+            ],
+            "reponse": "Napoléon Ier"
+        }
+    ]
+}
