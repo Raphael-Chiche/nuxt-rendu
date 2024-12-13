@@ -1,14 +1,22 @@
 <script setup>
-const quiz = inject('quiz');
+const quiz = inject("quiz");
 </script>
 
 <template>
   <div class="my-5">
-    <h2 class="text-xl text-center mb-4">{{ quiz.quiz.content[quiz.currentQuestionIndex.value].question }}</h2>
-    <p class="text-center mb-4">Question {{ quiz.currentQuestionIndex.value + 1 }}/{{ quiz.quiz.content.length }}</p>
-<ul class="flex flex-col gap-4 items-center">
+    <h2 class="text-xl text-center mb-4">
+      {{ quiz.quiz.content[quiz.currentQuestionIndex.value].question }}
+    </h2>
+    <p class="text-center mb-4">
+      Question {{ quiz.currentQuestionIndex.value + 1 }}/{{
+        quiz.quiz.content.length
+      }}
+    </p>
+    <ul class="flex flex-col gap-4 items-center">
       <li
-        v-for="(choice, idx) in quiz.quiz.content[quiz.currentQuestionIndex.value].choix"
+        v-for="(choice, idx) in quiz.quiz.content[
+          quiz.currentQuestionIndex.value
+        ].choix"
         :key="idx"
       >
         <button

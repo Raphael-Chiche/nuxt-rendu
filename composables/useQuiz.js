@@ -2,7 +2,6 @@ export default function (quiz) {
   const currentQuestionIndex = ref(0);
   const selectedAnswers = ref([]);
   const score = ref(0);
-  const isLoading = ref(true);
   const isQuizCompleted = ref(false);
 
   const selectAnswer = (answer) => {
@@ -29,7 +28,6 @@ export default function (quiz) {
     currentQuestionIndex,
     selectedAnswers,
     score,
-    isLoading,
     isQuizCompleted,
     selectAnswer,
     reset
